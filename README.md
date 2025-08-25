@@ -21,7 +21,7 @@ The project uses the classic Iris dataset from `sklearn.datasets.load_iris()` wh
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/aditya-1290/Iris-Flower-Species-Predictor.git>
 cd Iris_Flower_Species_Predictor
 ```
 
